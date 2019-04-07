@@ -6,9 +6,13 @@ Clone the repository and copy past the need it resource
 Follow instructions in the README.md for the example.  
 
 ## Table of Contents
-1. terraform-aws-modules  
-  1.1. lambda  
-  1.1. s3  
-  1.1. dynamodb  
+1. terraform-aws-modules
+    1. Lambda
+    1. S3
+    1. Dynamodb
+    1. ApiGateway
+    1. SNS
+    1. SQS
+    1. SES
   
 
