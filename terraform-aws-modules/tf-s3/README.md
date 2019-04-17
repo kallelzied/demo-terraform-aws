@@ -11,7 +11,7 @@ module "bucket-sample" {
   is-versioning-enabled              = false
 }
 ```
-This will create an encrypted s3 bucket named demo-bucket-s3
+This will create an s3 bucket named demo-bucket-s3
 
 # Terraform version
 No special requirement, but as always try to use the last version
