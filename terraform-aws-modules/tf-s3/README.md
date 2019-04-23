@@ -17,7 +17,7 @@ This will create an s3 bucket named demo-bucket-s3
 No special requirement, but as always try to use the last version
 
 # Module outputs
-his module exposes the following outputs:  
+This module exposes the following outputs:  
  * s3-id : The S3 bucket ID
  * s3-arn: The S3 bucket ARN
 
