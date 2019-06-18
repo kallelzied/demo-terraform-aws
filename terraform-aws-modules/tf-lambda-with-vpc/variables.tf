@@ -38,3 +38,13 @@ variable "lambda-function-publish" {
   description = "Versionning changes of the lambda function"
   default     = "false"
 }
+
+variable "lambda-function-subnet-ids" {
+  type        = "list"
+  description = "vpc's subnet ids"
+}
+
+variable "lambda-function-security-group-ids" {
+  type        = "list"
+  description = "Security group ids"
+}
