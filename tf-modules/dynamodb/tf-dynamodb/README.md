@@ -19,4 +19,4 @@ No special requirement, but as always try to use the last version
 # Module outputs  
 dynamodb-table-name: table-name
 dynamodb-table-arn: table-arn
-dynamodb-table-streamarn: the stream arn of this dynamodb table 
+dynamodb-stream-arn: the stream arn of this dynamodb table 
